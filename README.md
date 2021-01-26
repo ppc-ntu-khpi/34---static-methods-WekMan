@@ -2,5 +2,5 @@
 
 ## Приклад виконання програми, код: 
 ![Image](https://github.com/ppc-ntu-khpi/34---static-methods-WekMan/blob/master/photo/1.png)
-![Image](https://ibb.co/DrcK3bM)
-![Image](https://ibb.co/2y4V5Cw)
+![Image](https://github.com/ppc-ntu-khpi/34---static-methods-WekMan/blob/master/photo/2.png)
+![Image](https://github.com/ppc-ntu-khpi/34---static-methods-WekMan/blob/master/photo/3.png)
